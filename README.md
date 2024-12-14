@@ -1,5 +1,6 @@
 # User Behavior and Order Analysis
-## Project Overview This project analyzes user behavior, cooking preferences, and order trends using three datasets: UserDetails, CookingSessions, and OrderDetails. 
+## Project Overview:
+   This project analyzes user behavior, cooking preferences, and order trends using three datasets: UserDetails, CookingSessions, and OrderDetails. 
 ## Structure 
    - **Datasets**: Contains the raw data files.
    - **Scripts**: Analysis scripts to load, clean, and analyze the data.
